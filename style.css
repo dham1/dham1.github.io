@@ -1,0 +1,10 @@
+body{
+    background-color:#e5c897;
+}
+#calculate{
+    background-color: indianred;
+    color:whitesmoke;
+}
+label{
+    display: block;
+}
